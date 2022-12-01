@@ -18,7 +18,6 @@ with open('rasmus.txt') as f:
         currentMax = 0;
     return max, man
 
-  arr = ['4601\n', '1583\n', '\n', '1583\n', '1583\n']
   new = []
   test = 0
   for e in lines:
